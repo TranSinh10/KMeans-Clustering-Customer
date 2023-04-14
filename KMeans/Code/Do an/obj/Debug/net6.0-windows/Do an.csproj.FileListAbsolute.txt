@@ -1,0 +1,52 @@
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\Do an.exe
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\Do an.deps.json
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\Do an.runtimeconfig.json
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\Do an.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\Do an.pdb
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.csproj.AssemblyReference.cache
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do_an.Form1.resources
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.csproj.GenerateResource.cache
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.AssemblyInfoInputs.cache
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.AssemblyInfo.cs
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.csproj.CoreCompileInputs.cache
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.dll
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\refint\Do an.dll
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.pdb
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.genruntimeconfig.cache
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\ref\Do an.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\CsvHelper.dll
+C:\Users\nam\source\repos\Do an\Do an\obj\Debug\net6.0-windows\Do an.csproj.CopyComplete
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nam\source\repos\Do an\Do an\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\Do an.exe
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\Do an.deps.json
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\Do an.runtimeconfig.json
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\Do an.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\Do an.pdb
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\CsvHelper.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.csproj.AssemblyReference.cache
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do_an.Form1.resources
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.csproj.GenerateResource.cache
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.GeneratedMSBuildEditorConfig.editorconfig
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.AssemblyInfoInputs.cache
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.AssemblyInfo.cs
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.csproj.CoreCompileInputs.cache
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.csproj.CopyComplete
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\refint\Do an.dll
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.pdb
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\Do an.genruntimeconfig.cache
+E:\Đồ án tốt nghiệp\KMeans\Code\Do an\obj\Debug\net6.0-windows\ref\Do an.dll
